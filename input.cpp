@@ -40,7 +40,7 @@ int main(){
     cin >> age3;
 
     cout << "Hello " << full_name << " you are " 
-        << age3 << " years old." << endl;
+         << age3 << " years old." << endl;
 
 
     return 0;
